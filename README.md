@@ -50,7 +50,7 @@ Bu projeyi yerel makinenizde çalıştırmak için:
 
 1.  **Repository'yi Klonlayın:**
     ```bash
-    git clone https://github.com/KULLANICI_ADINIZ/BadHabitTracker.git
+    git clone https://github.com/hasanoren/BadHabitTracker.git
     ```
 2.  **Firebase Kurulumu:**
     *   [Firebase Konsolu](https://console.firebase.google.com/)'nda yeni bir proje oluşturun.
